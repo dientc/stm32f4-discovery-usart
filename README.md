@@ -7,7 +7,7 @@ This is a sample code for USART3 on stm32f4 discovery board. It runs on Ubuntu 1
 
 How to run:
 
-cd ~
-git clone https://github.com/dientc/stm32f4-discovery-usart.git
-cd stm32f4-discovery-usart
-make flash #to make and flash firmware
+- cd ~
+- git clone https://github.com/dientc/stm32f4-discovery-usart.git
+- cd stm32f4-discovery-usart
+- make flash #to make and flash firmware
