@@ -11,3 +11,5 @@ How to run:
 - git clone https://github.com/dientc/stm32f4-discovery-usart.git
 - cd stm32f4-discovery-usart
 - make flash #to make and flash firmware
+
+Note: This sample code builds with c99 library, so you can use many math functions in your code.
